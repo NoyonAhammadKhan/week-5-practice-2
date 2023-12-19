@@ -1,0 +1,61 @@
+﻿Practice Day 2
+Marks : 10
+
+
+Create a “Musicians Directory” project where
+A musician model will have
+1. First Name
+2. Last Name
+3. Email
+4. Phone number
+5. Instrument Type
+Album model will have 
+1. Album Name
+2. One-to-Many Relationships with musician model
+3. Album release date
+4. Rating between 1-5
+Now you need to use model form so that a logged in user can create a musician and album, edit data, delete data, save data to backend and can see the data in the below format. A non logged in user can only view the table without edit and delete permission.
+
+
+N:B : You must solve this problem using class based views
+
+
+ID
+	Musician Name
+	Email
+	Album Rating
+	Instrument Type
+	Album Name
+	Release Date
+	Actions
+	1
+	Rahim Uddin
+	rahim@gmail.com
+	5
+	Guitar
+	Preyotoma
+	06-Dec-2023
+	Edit  Delete
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+Instructions : 
+1. While clicking edit button anyone can edit the album data
+2. While clicking name of the musician anyone can edit musician data

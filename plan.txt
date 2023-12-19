@@ -1,0 +1,1 @@
+1.Add edit link with musician name in table data
